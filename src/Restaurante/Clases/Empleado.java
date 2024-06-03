@@ -1,4 +1,4 @@
-package src.Restaurante;
+package src.Restaurante.Clases;
 
 public abstract class Empleado {
     private String nombre;

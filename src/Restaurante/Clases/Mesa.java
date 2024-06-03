@@ -1,4 +1,4 @@
-package src.Restaurante;
+package src.Restaurante.Clases;
 
 public class Mesa {
     private int numMesa;

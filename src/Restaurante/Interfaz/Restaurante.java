@@ -1,9 +1,16 @@
 //Aqui administro todos los metodos a utiliza ren el restaurante
-package src.Restaurante;
+package src.Restaurante.Interfaz;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
+
+import src.Restaurante.Clases.Camarero;
+import src.Restaurante.Clases.Cliente;
+import src.Restaurante.Clases.Cocinero;
+import src.Restaurante.Clases.Empleado;
+import src.Restaurante.Clases.Mesa;
+import src.Restaurante.Clases.Reserva;
 
 public class Restaurante {
     private String nombre;

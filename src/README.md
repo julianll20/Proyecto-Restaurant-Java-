@@ -1,6 +1,8 @@
 ##Subido al repositorio (https://github.com/julianll20/Proyecto-Restaurant-Java-)
 ##Proyecto: Administracion de restaurante por Julian Llera.
 ##Es un trabajo simple usando la tecnologia Java.
+##IMPORTANTE:correr el proyecto desde interfaz 
+
 ##Descripción General del Proyecto:
 El proyecto consiste en un sistema de gestión de reservas para un restaurante. Está diseñado para facilitar la administración de las reservas de mesas, clientes y empleados, así como para proporcionar una interfaz para realizar operaciones como realizar, cancelar y modificar reservas, asignar mesas a clientes sin reserva, y visualizar la disponibilidad de mesas y el historial de reservas.
 

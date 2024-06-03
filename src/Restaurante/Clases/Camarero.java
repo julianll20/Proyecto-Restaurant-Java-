@@ -1,4 +1,4 @@
-package src.Restaurante;
+package src.Restaurante.Clases;
 
 public class Camarero extends Empleado {
     public Camarero(String nombre) {

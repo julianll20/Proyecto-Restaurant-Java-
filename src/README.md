@@ -1,4 +1,4 @@
-##Subido al repositorio ()
+##Subido al repositorio (https://github.com/julianll20/Proyecto-Restaurant-Java-)
 ##Proyecto: Administracion de restaurante por Julian Llera.
 ##Es un trabajo simple usando la tecnologia Java.
 ##Descripción General del Proyecto:

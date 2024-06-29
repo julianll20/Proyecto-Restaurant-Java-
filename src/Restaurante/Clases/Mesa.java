@@ -2,13 +2,13 @@ package src.Restaurante.Clases;
 
 public class Mesa {
     private int numMesa;
-    private int capacidad;
+    private int capacidadmax;
     private String estado;
     private Reserva reserva;
 
-    public Mesa(int numMesa, int capacidad) {
+    public Mesa(int numMesa, int capacidadmax) {
         this.numMesa = numMesa;
-        this.capacidad = capacidad;
+        this.capacidadmax = capacidadmax;
         this.estado = "Disponible";
         this.reserva = null;
     }
@@ -21,12 +21,12 @@ public class Mesa {
         this.numMesa = numMesa;
     }
 
-    public int getCapacidad() {
-        return capacidad;
+    public int getCapacidadmax() {
+        return capacidadmax;
     }
 
-    public void setCapacidad(int capacidad) {
-        this.capacidad = capacidad;
+    public void setCapacidad(int capacidadmax) {
+        this.capacidadmax = capacidadmax;
     }
 
     public String getEstado() {
